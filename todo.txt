@@ -1,0 +1,16 @@
+routes
+
+-/(default Welcome Route/page)
+-/signin(also Acts as Create User)
+-/login
+--/feed
+--/profile
+--/edit/:userid
+--/userid
+--/delete/:userid
+--/posts/upload
+--/posts/:postid
+--/posts/edit/:postid
+--/posts/delete/:postid
+
+(-- Routes Needs Authentication)
